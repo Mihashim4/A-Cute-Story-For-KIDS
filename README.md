@@ -9,4 +9,6 @@ This is my beginner project uploaded to GitHub.
 
 ## Author
 Mohamed Imran Hashim 
+___________________________________________________
+
 A HUNGRY MOUSE STORY BY MIHASHIM4, PLEASE SUBSCRIBE MY CHANNEL
