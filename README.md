@@ -11,4 +11,4 @@ This is my beginner project uploaded to GitHub.
 Mohamed Imran Hashim 
 ___________________________________________________
 
-A HUNGRY MOUSE STORY BY MIHASHIM4
+I made these stories in a HTML format
